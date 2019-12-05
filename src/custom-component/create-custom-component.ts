@@ -1,4 +1,4 @@
-import { BuilderInfo, Components, ExtendedComponentSchema, Utils as FormioUtils } from 'formiojs';
+import { BuilderInfo, Components, ExtendedComponentSchema, Utils as FormioUtils } from 'formiojs-emilyemr';
 import { FormioCustomComponentInfo, FormioCustomElement } from '../formio.common';
 import { clone, isNil, isArray } from 'lodash';
 

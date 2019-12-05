@@ -4,7 +4,7 @@ import { FormManagerConfig } from '../form-manager.config';
 import { ActivatedRoute } from '@angular/router';
 import { FormioAppConfig } from '../../formio.config';
 import { BsModalService, BsModalRef } from 'ngx-bootstrap/modal';
-import { Formio } from 'formiojs';
+import { Formio } from 'formiojs-emilyemr';
 
 @Component({
   templateUrl: './form.component.html'

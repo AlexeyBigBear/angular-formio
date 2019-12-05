@@ -1,6 +1,6 @@
 import { Input, Output, EventEmitter, ViewChild, TemplateRef } from '@angular/core';
 import { each, clone } from 'lodash';
-import { Formio } from 'formiojs';
+import { Formio } from 'formiojs-emilyemr';
 import { GridHeaderComponent } from './GridHeaderComponent';
 
 export class GridBodyComponent {

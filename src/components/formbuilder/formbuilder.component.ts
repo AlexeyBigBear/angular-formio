@@ -17,7 +17,7 @@ import {
   FormioForm,
   FormioOptions
 } from '../../formio.common';
-import { Formio, FormBuilder, Utils } from 'formiojs';
+import { Formio, FormBuilder, Utils } from 'formiojs-emilyemr';
 import { assign } from 'lodash';
 import { Observable, Subscription } from 'rxjs';
 import { CustomTagsService } from '../../custom-component/custom-tags.service';

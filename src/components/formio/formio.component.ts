@@ -1,7 +1,7 @@
 import { Component, OnInit, Optional, ViewEncapsulation, Input, NgZone, OnChanges } from '@angular/core';
 import { FormioLoader } from '../loader/formio.loader';
 import { FormioAppConfig } from '../../formio.config';
-import { Formio, Form, Utils } from 'formiojs';
+import { Formio, Form, Utils } from 'formiojs-emilyemr';
 import { FormioBaseComponent } from '../../FormioBaseComponent';
 import { CustomTagsService } from '../../custom-component/custom-tags.service';
 

@@ -1,5 +1,5 @@
 import { Output, EventEmitter, ViewChild, TemplateRef, Input } from '@angular/core';
-import { Formio } from 'formiojs';
+import { Formio } from 'formiojs-emilyemr';
 
 export class GridHeaderComponent {
   @Input() actionAllowed: any;

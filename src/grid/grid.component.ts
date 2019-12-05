@@ -14,7 +14,7 @@ import {
 import { FormioLoader } from '../components/loader/formio.loader';
 import { FormioAlerts } from '../components/alerts/formio.alerts';
 import { assign, each, get } from 'lodash';
-import { Formio } from 'formiojs';
+import { Formio } from 'formiojs-emilyemr';
 import { GridHeaderComponent } from './GridHeaderComponent';
 import { GridBodyComponent } from './GridBodyComponent';
 import { GridFooterComponent } from './GridFooterComponent';

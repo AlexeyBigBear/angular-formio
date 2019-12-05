@@ -7,7 +7,7 @@ import { FormioLoader } from '../components/loader/formio.loader';
 import { FormioAppConfig } from '../formio.config';
 import { FormioRefreshValue } from '../formio.common';
 import Promise from 'native-promise-only';
-import { Formio, Utils } from 'formiojs';
+import { Formio, Utils } from 'formiojs-emilyemr';
 import _ from 'lodash';
 
 @Injectable()

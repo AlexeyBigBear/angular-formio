@@ -1,7 +1,7 @@
-import { ExtendedComponentSchema, BuilderInfo, ValidateOptions } from 'formiojs';
+import { ExtendedComponentSchema, BuilderInfo, ValidateOptions } from 'formiojs-emilyemr';
 import { EventEmitter } from '@angular/core';
 import { NgElement, WithProperties } from '@angular/elements';
-export { ConditionalOptions, ValidateOptions } from 'formiojs';
+export { ConditionalOptions, ValidateOptions } from 'formiojs-emilyemr';
 
 export interface ComponentOptions<T = any, V = ValidateOptions> extends ExtendedComponentSchema<T> {
   validate?: V;

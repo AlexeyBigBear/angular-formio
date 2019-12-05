@@ -20,4 +20,4 @@ export {
   ComponentSchema,
   ExtendedComponentSchema,
   ElementInfo
-} from 'formiojs';
+} from 'formiojs-emilyemr';
